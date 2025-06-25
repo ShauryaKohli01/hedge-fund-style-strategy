@@ -133,6 +133,7 @@ Works as a solid foundation to build more advanced strategies.
 For more depth in this topic, read and subscrible my Substack Bio
 
 Substack Home: https://substack.com/@shauryakohli?utm_source=user-menu
+
 LinkedIn: www.linkedin.com/in/shaurya-kohli18
 
 
